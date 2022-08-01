@@ -13,8 +13,6 @@ Created: July 31, 2022 11:26 AM
 - Inteligência Artificial
 - Linguagem: Python
 
-## Etapa 2 - Coletando os Dados
-
 ---
 
 # 🧩Etapa 2 - Coletando os Dados
